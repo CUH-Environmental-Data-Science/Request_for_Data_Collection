@@ -12,7 +12,11 @@
  
  ## Acknowledgement 
  
-We are grateful to make this request for data collection on such unique and culturally significant places. We look to community leaders and stewards such as the Maunalua Fishpond Heritage Center and the Waimanalo Limu Hui for guidance. We hope to continuously learn about the rich history of these places and prioritize these lessons in our education and research. 
+We are grateful to make this request for data collection on such unique and culturally significant places. We look to community leaders and stewards such as the Maunalua Fishpond Heritage Center for guidance. We hope to continuously learn about the rich history of this place and prioritize these lessons in our education and research. 
+
+### Data Ownership
+
+The data gathered for this research is not owned by Chaminade University. The data will be publicly available and under the management of the Maunalua Fishpond Heritage Center. 
 
 ### This Document
 
